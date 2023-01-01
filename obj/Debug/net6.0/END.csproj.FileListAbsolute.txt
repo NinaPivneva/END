@@ -1,0 +1,15 @@
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\bin\Debug\net6.0\END.exe
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\bin\Debug\net6.0\END.deps.json
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\bin\Debug\net6.0\END.runtimeconfig.json
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\bin\Debug\net6.0\END.dll
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\bin\Debug\net6.0\END.pdb
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.csproj.AssemblyReference.cache
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.AssemblyInfoInputs.cache
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.AssemblyInfo.cs
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.csproj.CoreCompileInputs.cache
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.dll
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\refint\END.dll
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.pdb
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\END.genruntimeconfig.cache
+C:\Users\okovd\Desktop\myEneningSeminars\Homeworks\END\obj\Debug\net6.0\ref\END.dll
